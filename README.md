@@ -1,4 +1,4 @@
-# Junction-2019
+# Junction-Hackathon
 
 ![](slides/1.png)
 
